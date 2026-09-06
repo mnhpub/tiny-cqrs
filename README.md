@@ -1,5 +1,9 @@
 # tiny-cqrs
 
+> **This repository has moved.** Development continues at
+> **[github.com/LedgerWriter/tiny-cqrs](https://github.com/LedgerWriter/tiny-cqrs)** — please open
+> issues/PRs and depend on releases there instead. This repo is archived (read-only).
+
 A tiny, storage-agnostic CQRS / event-sourcing core for TypeScript. Bring your own database, your
 own domain types, your own deployment target.
 
